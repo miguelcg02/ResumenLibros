@@ -43,7 +43,7 @@ Defensa: Preguntarse, "¿Es esta autoridad realmente un experto?", "¿Estoy segu
 
 #ESCASEZ
 
-````
+```
 Aplicación: producir un efecto de cantidad o tiempo limitado.
 Defensa: saber reconocer que un producto no es necesariamente mejor solo porque falta.
 ```
