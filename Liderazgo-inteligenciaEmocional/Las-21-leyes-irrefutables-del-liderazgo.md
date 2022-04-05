@@ -1,4 +1,4 @@
-#Las 21 leyes irrefutables del liderazgo
+# Las 21 leyes irrefutables del liderazgo
 
 ```
 1. La ley del tope: La capacidad de liderazgo determina el nivel de eficacia de una persona.
