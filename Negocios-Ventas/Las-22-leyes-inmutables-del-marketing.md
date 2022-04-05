@@ -1,4 +1,4 @@
-#Las 22 leyes que rigen el marketing
+# Las 22 leyes que rigen el marketing
 
 ```
 1. Ley del liderazgo: Es mejor ser el primero que ser el mejor.

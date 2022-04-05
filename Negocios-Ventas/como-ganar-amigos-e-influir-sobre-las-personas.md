@@ -1,4 +1,4 @@
-#TECNICAS FUNDAMENTALES PARA TRATAR CON EL PROJIMO
+# TECNICAS FUNDAMENTALES PARA TRATAR CON EL PROJIMO
 
 ```
 Regla 1 No critique, no condene, ni se queje.
@@ -6,7 +6,7 @@ Regla 2 Demuestre aprecio honrado y sincero.
 Regla 3 Despierte en los demás un deseo vehemente.
 ```
 
-#SEIS MANERA DE AGRADAR A LOS DEMÁS
+# SEIS MANERA DE AGRADAR A LOS DEMÁS
 
 ```
 Regla 1 Interésese sinceramente por los demás.
@@ -17,7 +17,7 @@ Regla 5 Hable siempre de lo que interese a los demás.
 Regla 6 Haga que la otra persona se sienta importante y hágalo sinceramente.
 ```
 
-#LOGRE QUE LOS DEMÁS PIENSEN COMO USTED
+# LOGRE QUE LOS DEMÁS PIENSEN COMO USTED
 
 ```
 Regla 1 La única forma de salir ganando de una discusión es evitandola.
