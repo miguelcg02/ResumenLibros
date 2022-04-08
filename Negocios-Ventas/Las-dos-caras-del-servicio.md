@@ -9,6 +9,11 @@ calidad del producto, se genera un valor agregado muy difícil de igualar.
 2. MULTINACIONAL DE VENTAS ONLINE, A LA MEDIDA DEL SUEÑO: Toda interacción con el cliente
 es una oportunidad, sin importar su naturaleza. En este caso, una empresa logró sacarle
 el máximo partido a un error y convertir a un cliente más fiel de sus discípulos.
+
+3. RESTAURANTE DE CARRETERA, ENCONTRAR LO QUE NO SE ESTA BUSCANDO: Como clientes, no siempre sabemos lo que queremos. Eso no quiere
+decir queno sepamos reconocer cuando un producto o un servicio son realmente sorprendentes y
+atractivos. En este caso, una empresa ha dabido cómo ganarse verdaderos embajadores que no 
+dudan en convertirse en promotores de la marca.
 ```
 
 # Cara 2: triste
