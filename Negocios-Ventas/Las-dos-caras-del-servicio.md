@@ -14,6 +14,8 @@ el máximo partido a un error y convertir a un cliente más fiel de sus discípu
 decir queno sepamos reconocer cuando un producto o un servicio son realmente sorprendentes y
 atractivos. En este caso, una empresa ha dabido cómo ganarse verdaderos embajadores que no 
 dudan en convertirse en promotores de la marca.
+
+4. SUPERMERCADO MULTINACIONAL, El reloj de la fortuna: El buen servicio al cliente también cobija la honestidad, y este caso muestra cómo, cuando una empresa quiere respetar este valor por encima ded cualquier otra cosa, hace lo qie sea necesario para lograrlo.
 ```
 
 # Cara 2: triste
@@ -32,4 +34,9 @@ lograr que la empresa responda hace falta llenarse de paciencia y perseverancia.
 cliente también es necesario en los tramites que se realizan ante el Estado. Este
 caso muestra cómo incluir con la vida tributaria de un difunto se puede convertir
 en un imposible.
+
+4. ALQUILER DE CARROS, SIN VENCEJOS NI COTORRAS AL AMANECER, La historia de esta familia muestra cómo el servicio al cliente puede ser definitivo para el desaroollo de muchos acontecimientos, ya sea para bien o para mal. Infortunadamente, este caso muestracómo el mal servicio arruinó unas vacaciones.
+
+5. COMPAÑÍA DE REPUESTOS AUTOMOTORES, una garantía de papel: Un erro común en términos de servicio al clientes es pensar que se le esta "colaborando" a un cliente cuando se le resuelve un problema, y no que ese soporte hace parte de la promesa de valor del servicio o el producto que s ele ha vendido. Al igual que en los partidos de futbol, para el cumpliento de una garantía hay tiempo hasta el último minuto.
 ```
+
