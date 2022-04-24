@@ -52,6 +52,20 @@ que ser escuchado y, aun más, saber que las empresas han hecho cambios gracias 
 necesidad de regalos o de promociones, escuchar al cliente y actuar genera un verdadero vinculo con los 
 clientes.
 
+12. EMPRESA PÚBLICA DE SEGUROS, NO TODO ES LO QUE PARECE: Como clientes muchas veces asumimos que el
+servicio que tiene mala fama, o porque eso es lo que simpre hemos escuchado; sin embargo, a veces las 
+cosas no son lo que parecen. 
+
+13. MULTINACIONAL DE DISPOSITIVOS ELECTRÓNICOS, EL PODER DE LA EMPATÍA: Sin importar su marca, su nivel 
+de reconocimiento o su posición en el mercado, el trabajo de una organización lo llevan a cabo personas
+de carne y hueso. Las relaciones entre clientes y compañías están mediadas por una conversación entre dos
+personas, que bien pueden no conectar o generar lazos de empatía.
+
+14.POLIZA EXEQUIAL, ¡A LO SEGURO!: Este caso muestra cómo una empresa no debe dar por sentado la atención
+que recibirá por parte d euna empresa. Cuando menos lo imagina, es posible que alguien atienda su reclamo,
+a pesar de haber sido el cliente quien cometió el error.
+
+15. AGENCIA DE VIAJES, DESDE EL OTRO LADO DEL MUNDO: A veces, las cosas no resultan como lo imaginamos, y contar con el apoyo que se requiere en un momento de crisis  puede maracar una gran diferencia. En este caso, la organización apoyó a sus clientes en un momento difícil y genero un vinculo muy importante.
 ```
 
 # Cara 2: triste
@@ -115,5 +129,25 @@ nuevo que ella compró. Este es el precio de la buena calidad con pésimo servic
 una tarjeta de crédito que la misma entidad había cancelado por posible fraude, y esto se
 convirtio en un infierno para una clienta que tenía asociado a esta tarjeta el pago de diferentes
 servicios.
+
+13. EMPRESA DE MUDANZAS, ¿UNA PROMESA INCUMPLIDA ES UNA MENTIRA?: Cuando el discurso de ventas de
+una organización confunde al cliente y genera unas expectativas que no se cumplen, queda la percepción
+de que la empresa ha mentido.
+
+14. OPTICA, PEOR CIEGO EL QUE NO QUIERE VER: En ocasiones se requiere una nueva óptica para abordar el 
+servicio al cliente; sobre todom al momento de reconocer una falla, pues el servicio se reduce no solo
+al trati y ka comunicación, sino también, a planificar cómo reaccionar frente a situaciones poco comunes.
+
+15. CENTRO MEDUCO PRIVADO, LA MUELA DEL JUICIO. Este caso muestra cómo el pesimo servicio al cliente de 
+una empresa de salud puede llevar a cancelación del contrato y generar gastos extra por parte del afiliado
+y el pago d euna cirugía odonotológica totalmente de su bolsillo, a pesar de contar con un seguro particular.
+
+16. EMPRESA DE SERVICIO DE ENERGÍA, ¿AL FIN QUÉ?: La honestidad con el cliente puede ser vital para brindar
+un buen servicio. Este caso muestra cómo un call center en ocasiones no está en al servicio del cliente, sino
+al de la propia empresa, y no sirve más que para dilar la solución de los problemas.
+
+17. PLATAFORMA DE TIQUETES AEREOS, CIEGOS, SORDOS Y MUDOS: Cuando la capacidad de reacción de una compañia es muy lenta y los inconvenientes se prolongan de manera indefinida, se amplifica tambíen la oportunidad de afectación a su reputación. La respuesta no debe ser siempre la misma para una queja reiterada.
+
+
 ```
 
