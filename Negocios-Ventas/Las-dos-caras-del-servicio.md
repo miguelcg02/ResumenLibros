@@ -65,7 +65,9 @@ personas, que bien pueden no conectar o generar lazos de empatía.
 que recibirá por parte d euna empresa. Cuando menos lo imagina, es posible que alguien atienda su reclamo,
 a pesar de haber sido el cliente quien cometió el error.
 
-15. AGENCIA DE VIAJES, DESDE EL OTRO LADO DEL MUNDO: A veces, las cosas no resultan como lo imaginamos, y contar con el apoyo que se requiere en un momento de crisis  puede maracar una gran diferencia. En este caso, la organización apoyó a sus clientes en un momento difícil y genero un vinculo muy importante.
+15. AGENCIA DE VIAJES, DESDE EL OTRO LADO DEL MUNDO: A veces, las cosas no resultan como lo imaginamos, y 
+contar con el apoyo que se requiere en un momento de crisis  puede maracar una gran diferencia. En este caso, 
+la organización apoyó a sus clientes en un momento difícil y genero un vinculo muy importante.
 ```
 
 # Cara 2: triste
@@ -146,7 +148,9 @@ y el pago d euna cirugía odonotológica totalmente de su bolsillo, a pesar de c
 un buen servicio. Este caso muestra cómo un call center en ocasiones no está en al servicio del cliente, sino
 al de la propia empresa, y no sirve más que para dilar la solución de los problemas.
 
-17. PLATAFORMA DE TIQUETES AEREOS, CIEGOS, SORDOS Y MUDOS: Cuando la capacidad de reacción de una compañia es muy lenta y los inconvenientes se prolongan de manera indefinida, se amplifica tambíen la oportunidad de afectación a su reputación. La respuesta no debe ser siempre la misma para una queja reiterada.
+17. PLATAFORMA DE TIQUETES AEREOS, CIEGOS, SORDOS Y MUDOS: Cuando la capacidad de reacción de una compañia es 
+muy lenta y los inconvenientes se prolongan de manera indefinida, se amplifica tambíen la oportunidad de 
+afectación a su reputación. La respuesta no debe ser siempre la misma para una queja reiterada.
 
 
 ```
