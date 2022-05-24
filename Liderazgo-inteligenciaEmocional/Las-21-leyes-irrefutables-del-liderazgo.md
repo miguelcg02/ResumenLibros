@@ -3,7 +3,7 @@
 ```
 1. La ley del tope: La capacidad de liderazgo determina el nivel de eficacia de una persona.
 2. La ley de la influencia: Liderazgo es influencia, los titulos no tienen mucho valor cuando se trata de liderazgo.
-3. La ley ddel proceso: El liderazgo se desarrolla diariamente, no en un día.
+3. La ley del proceso: El liderazgo se desarrolla diariamente, no en un día.
 4. La ley de la navegación: Cualquiera puede gobernar un barco, pero se necesita que un lider plantee la ruta.
 5. La ley de E.F hutton: Cuando un verdadero lider habla, la gente escucha.
 6. La ley del terreno firme: La confianza es el fundamento del liderazgo. Ningún lider puede traicionar la confianza de su pueblo y esperar influirlo.

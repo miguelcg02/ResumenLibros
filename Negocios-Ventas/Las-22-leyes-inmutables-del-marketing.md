@@ -13,11 +13,11 @@
 10. Ley de la división: Con el tiempo una categoría se dividirá para convertirse en dos o más categorias.
 11. Ley de la perspectiva: Los efectos del marketing son a largo plazo.
 12. Ley de la extensión de línea: Existe una presión irresistible para extender el valor de la marca.
-13. Ley del sacrificio: Tiene que renunciar a algo para ocnseguir algo.
+13. Ley del sacrificio: Tiene que renunciar a algo para conseguir algo.
 14. Ley de los atributos: Por cada atributo hay otro contrario igual de efectivo.
 15. Ley de la sinceridad: Cuando admita algo negativo, el prospecto le reconocerá algo positivo.
 16. Ley de la singularidad: En cada situación, sólo una jugada producirá resultados.
-17. Ley de lo impredecible: Salvo que ustede escriba los planes de sus competidores, no podrá predicir el futuro.
+17. Ley de lo impredecible: Salvo que usted escriba los planes de sus competidores, no podrá predicir el futuro.
 18. Ley del éxito: El éxito suele llevar a la arrogancía y la arrogancía al fracaso.
 19. Ley del fracaso: El fracaso es parte de nuestra vida y debemos aceptarlo.
 20. Ley de la nota sancionalista: En muchas ocasiones la situación es lo contrario de lo que aparece en la prensa.

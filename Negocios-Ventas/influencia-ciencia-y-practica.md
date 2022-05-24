@@ -16,7 +16,7 @@ Defensa: Observar si el favor lleva consigo una intención secundaria.
 # COMPROMISO Y COHERENCIA
 
 ```
-Aplicacin: La sociedad valora a los individuos coherentes. Una vez cree una opinión formada, es má sprobable que tome decisiones similares en el futuro.
+Aplicación: La sociedad valora a los individuos coherentes. Una vez cree una opinión formada, es má sprobable que tome decisiones similares en el futuro.
 Defensa: Separar la coherencia con el compromiso.
 ```
 

@@ -28,7 +28,7 @@ Regla 5 Consiga que la otra persona diga "Si, si", inmediatamente.
 Regla 6 Permita que la otra persona sea quien hable más.
 Regla 7 Permita que la otra persona sienta que la idea es de ella.
 Regla 8 Trate honradamente de ver las cosas desde el punto de vista de la otra persona.
-Regla 9 Muestre simpatia por las ides y deseos de la otra persona.
+Regla 9 Muestre simpatia por las ideas y deseos de la otra persona.
 Regla 10 Apele a los motivos más nobles.
 Regla 11 Dramatice sus ideas.
 Regla 12 Lance, con tacto, un reto amable.
