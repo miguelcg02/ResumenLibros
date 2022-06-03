@@ -7,7 +7,7 @@
 4. Ley de la percepción: El marketing no es una batalla de productos, es una batalla de percepciones.
 5. Ley de la concentración: El concepto más poderoso en marketing es apropiarse de una palabra en la mente de los prospectos.
 6. Ley de la exclusividad: Dos empresas no pueden poseer la misma palabra en la mente de los clientes.
-7. Ley de la escalera: Que estrategia vaya a utilizar, debe depender del escalón que ocuoe en la escalera.
+7. Ley de la escalera: Que estrategia vaya a utilizar, debe depender del escalón que ocupe en la escalera.
 8. Ley de la dualidad: A la larga, cada mercado se convierte en una carrera de dos participantes.
 9. Ley de lo opuesto: Si opta por el segundo puesto, su estrategia está determinada por el líder.
 10. Ley de la división: Con el tiempo una categoría se dividirá para convertirse en dos o más categorias.

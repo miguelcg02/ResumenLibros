@@ -126,4 +126,15 @@ compromiso.
 6. Prepara un plan Ackerman. Antes de adentrarte en la maleza del regateo, necesitarás un plan que incluya un punto de anclaje extremo, preguntas calibradas y ofertas bien definidas. Recuerda: 65 %, 85 %, 95 %, 100 %. Los aumentos decrecientes y terminar con cifras no redondas hará que tu interlocutor crea que te está sacando todo lo que tienes, cuando en realidad estaréis llegando a necesitarás un plan que incluya un punto de anclaje extremo, preguntas calibradas y ofertas bien definidas. Recuerda: 65 %, 85 %, 95 %, 100 %. Los aumentos decrecientes y terminar con cifras no redondas hará que tu interlocutor crea que te está sacando todo lo que tienes, cuando en realidad estaréis llegando a la cifra que tú quieres.
 ```
 
+# 10. Encuentra el cisne negro
 
+```
+1. Deja que lo que sabes —tus certidumbres conocidas— te guíe sin cegarte. Cada caso es nuevo, por tanto mantente flexible y adáptate. Recuerda la crisis del banco Griffin: nunca un secuestrador había matado a un rehén en la fecha límite, hasta que uno lo hizo.
+2. Los cisnes negros son multiplicadores de la ventaja. Recuerda cuáles son los tres tipos de ventaja: positiva (la capacidad de darle a alguien lo que quiere); negativa (la capacidad de hacerle daño a alguien) y normativa (empelar las normas de tu interlocutor para llevarlo a tu terreno).
+3. Esfuérzate por entender la «religión» de la otra parte. Indagar en las cosmovisiones implica salir de la mesa de negociación y entrar en la vida, emocional o de otro orden, de la otra parte. Es ahí donde viven los cisnes negros.
+4. Repasa todo lo que diga tu interlocutor. No lo oirás todo la primera vez, revísalo. Compara tus notas con las de los demás miembros de tu equipo. Emplea a personas de refuerzo cuyo trabajo sea escuchar lo que se dice entre líneas. Oirán las cosas que a ti se te escapen.
+5. Explota el principio de similitud. La gente está más dispuesta a hacer concesiones ante alguien con el que comparte una similitud cultural, por tanto, busca lo que les hace tilín y déjales ver que tenéis cosas en común.
+6. Cuando alguien parece irracional o loco, lo más probable es que no lo esté.
+7. Cuando te encuentres en esta situación, busca los constreñimientos, los deseos ocultos y la información errónea que maneja.
+8. Encuéntrate cara a cara con tu interlocutor. Diez minutos con la persona a menudo revelan más que días de investigación. Presta especial atención a la comunicación verbal y no verbal de tu interlocutor en los momentos en los que esté con la guardia baja: al principio y al final de la sesión o cuando alguien diga algo ajeno al tema que se está tratando.
+```
