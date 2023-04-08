@@ -6,7 +6,7 @@ Los OKR son un procedimiento sencillo que ayuda a organizaciones de índole dive
 
 # PRIMERA PARTE: Los OKR en acción
 
-```
+
 1. Objectives and Key Results (Objetivos y Resultados Clave). Se trata de un protocolo de colaboración para establecer objetivos en empresas, equipos e
 individuos. Ahora bien, los OKR no son la panacea. No pueden sustituir al buen juicio, a los líderes fuertes ni a una cultura de empresa creativa. Pero si
 cuentas con esa base sobre la que cimentarlos, los OKR pueden llevarte a lo más alto.
@@ -22,7 +22,7 @@ trabajo progresa. Una vez que todos se han completado, el objetivo se alcanza ob
 7.En start-ups más pequeñas, en las que es preciso que todos remen en el mismo sentido, los OKR son una herramienta de supervivencia. En ese sector en particular, las empresas jóvenes tienen que crecer con rapidez para conseguir financiación antes de que su capital se agote. Los objetivos estructurados ofrecen a los promotores una vara para medir el éxito: «Vamos a crear este producto, y hemos testado el mercado con veinticinco clientes y esto es lo que están dispuestos a pagar».
 8. En organizaciones medianas que se expanden a toda prisa, los OKR devienen un lenguaje común para la ejecución de los planes. Aclaran las expectativas: «¿Qué objetivos necesitamos cumplir (cuanto antes) y quién está trabajando en ello?». Mantienen la coordinación entre los empleados, tanto vertical como horizontalmente.
 9. En compañías más grandes, los OKR son señales de tráfico con luces de neón. Acaban con la compartimentación y generan vínculos entre trabajadores que están desconectados entre sí. Al permitir la autonomía de los empleados de base, dan lugar a soluciones novedosas.
-```
+
 
 # Los cuatro «superpoderes» OKR: concentración, coordinación, seguimiento y exigencia.
 
@@ -59,7 +59,7 @@ Exploraremos el impacto de los OKR en el ámbito laboral y veremos cómo facilit
 
 # El padre de las OKR
 
-```
+
 1. Hay demasiada gente que trabaja demasiado para conseguir muy poco.
 2. ley epónima en que se fundamenta la escalada exponencial de la tecnología: la potencia de procesamiento informático se duplica cada dos años.
 3. El hecho irrefutable de que los resultados están por encima de las credenciales académicas.
@@ -84,7 +84,7 @@ Contrario al riesgo             | Agresivo y ambicioso
 13. Atrévete a fracasar. «El rendimiento suele mejorar mucho —escribió Grove— cuando todos se esfuerzan por alcanzar un nivel de éxito que está más allá de sus posibilidades inmediatas. […] Ese establecimiento de objetivos es extremadamente importante cuando quieres obtener un rendimiento elevado en tu trabajo y en el de tus subordinados.» Aunque hay ciertos objetivos operacionales que deben alcanzarse por completo, los OKR ambiciosos deberían ser incómodos y posiblemente inalcanzables. Los objetivos aspiracionales, como los llamaba Grove, propulsan a las organizaciones hasta nuevas cotas.
 14. Una herramienta, no un arma. Según escribió Grove, el sistema OKR «está diseñado para marcar el ritmo de la persona, poner un cronómetro en su mano para que pueda calibrar su propio rendimiento. No es un documento legal sobre el cual basar una evaluación de rendimiento». La mejor medida para incentivar la asunción de riesgos y evitar el inmovilismo es desvincular los OKR de las bonificaciones.
 15. Sé paciente; sé resolutivo. Todo proceso necesita un período de pruebas. Intel, como Grove explicaba a sus alumnos del iOPEC, «tropezó muchas veces» tras adoptar el sistema OKR. «No entendíamos cuál era su propósito principal. Y ahora, a medida que pasa el tiempo, vamos haciéndolo algo mejor.» Una organización puede necesitar hasta cuatro o cinco ciclos para hacerse con el sistema, e incluso más para fortalecer ese músculo que trabaje por objetivos.
-```
+
 
 # Operación CRUSH
 
@@ -307,5 +307,54 @@ piedras, un puñado de guijarros y arena, y que tu objetivo es intentar meter to
 13. : Los objetivos aspiracionales pueden provocar un reajuste en toda la organización. En nuestro caso, inspiró una nueva infraestructura que afectó a la totalidad de YouTube. La gente empezó a decir: «Si vamos a ser tan grandes, tal vez necesitemos rediseñar nuestra arquitectura. Quizá debamos rediseñar nuestra capacidad de almacenamiento». Se convirtió en un acicate para que la compañía al completo se preparase para el futuro. Todos empezaron a pensar a lo grande.
 14. Los empleados necesitan un índice que les permita saber cómo están rindiendo, y es muy importante dar con el adecuado.
 
+# Gestión continuada del rendimiento: Los OKR y los CFR
 
+1. Albert Einstein: «No todo lo que puede cuantificarse cuenta ni todo lo que cuenta puede cuantificarse».
+2. la gestión continuada del rendimiento. Se implementa mediante un instrumento llamado «CFR», cuyas siglas significan:
+    - Conversaciones: entendidas como un intercambio auténtico y lleno de matices entre el jefe y el colaborador, con la intención de impulsar el rendimiento.
+    - Feedback: en esencia, una comunicación bidireccional o en red entre compañeros para evaluar el progreso y conducir a mejoras futuras.
+    - Reconocimiento: consistente en expresiones de apreciación hacia los individuos que lo merezcan por sus contribuciones, independientemente de la magnitud de estas.
+3.  La experiencia me dice que cuando las metas están claras y coordinadas las personas tienen más probabilidad de sentirse realizadas. No deambulan por la oficina preguntándose cuál es su trabajo, ya que saben de qué modo conecta su cometido con la organización y en qué contribuye.»
+4. La idea es conseguir un feedback más específico en tiempo real
+5. Peter Drucker fue uno de los primeros en resaltar el valor de las reuniones cara a cara entre los jefes y sus subordinados directos. Andy Grove estimaba que noventa minutos del tiempo de un jefe «puede mejorar la calidad del trabajo de un subordinado durante dos semanas».
+6.  Han surgido cinco áreas decisivas de conversación entre el jefe y el colaborador:
+- Establecimiento de objetivos y reflexión: se formula el plan OKR del empleado para el siguiente ciclo. La discusión se centra en cómo coordinar mejor los objetivos y resultados clave individuales en concordancia con las prioridades de la organización.
+- Actualización de progreso en curso: la breve revisión del progreso del empleado en tiempo real, basada en los datos y con la resolución de problemas que sea necesaria.
+- Orientación bidireccional: para contribuir a que los colaboradores alcancen su máximo potencial y a que los jefes realicen un trabajo mejor.
+- Crecimiento profesional: identificar oportunidades de crecimiento y expandir la visión de los empleados respecto a su futuro y el de la empresa.
+- Evaluaciones de rendimiento ligero: un mecanismo de feedback para recoger comentarios y resumir hasta dónde ha llegado el empleado desde la última reunión, en el contexto de las necesidades de la organización.
+7. Al fomentar las relaciones entre equipos, el feedback entre compañeros es especialmente valioso en las iniciativas interdisciplinarias. Cuando se abren los canales de la comunicación horizontal, el trabajo interdepartamental se convierte en la nueva norma.
+8. El reconocimiento continuo es una herramienta poderosa para implicar al empleado: «Aunque parezca una menudencia, dar las gracias es una extraordinaria forma de crear implicación en el equipo. Las empresas con un alto nivel de reconocimiento del empleado tienen el treinta y uno por ciento menos de rotación de personal que las que tienen una cultura de reconocimiento pobre».
+9. Cada muestra de aliento es un paso hacia la excelencia, que es el propósito fundamental de los OKR y los CFR.
 
+# La historia de Adobe
+
+1. Nuestros dirigentes fueron el ejemplo a seguir. Necesitaban demostrar que ellos mismos estaban abiertos al feedback y que no les incomodaba que cuestionaran sus proyectos.
+2. Los individuos quieren ser dueños de su propio éxito. No quieren esperar hasta final de año para que los evalúen. Quieren saber cómo les va durante el desarrollo de sus acciones y también qué aspectos necesitan cambiar.
+3. El feedback también puede darse entre pares.
+4. un sistema de gestión continuada del rendimiento tiene tres requerimientos. El primero es el apoyo de la dirección. El segundo es que queden claros los objetivos de la empresa y de qué manera se coordinan con las prioridades individuales, tal como establecen nuestros «objetivos y expectativas», que equivalen a los OKR. El tercero es invertir en una formación que prepare a los jefes de departamento y los directivos para que sean más eficientes.
+5. La rotación genera costes. La mejor rotación es la interna, en la que el personal crece profesionalmente dentro de la empresa en lugar de marcharse. Las personas no están programadas para ser nómadas. Solo necesitan encontrar un lugar en el que sientan que dejarán huella.
+
+# La historia de Zume Pizza
+
+1.  Si hubiéramos contado con un proceso de establecimiento de objetivos bien construido desde el principio, podríamos habernos ahorrado muchos quebraderos de cabeza.
+2.  los OKR no son eficientes a menos que la cúpula ejecutiva se implique incondicionalmente en ellos, como si fuera un acto de fe. Y el proselitismo es un trabajo duro y desagradecido
+3. Cuando te das contra una pared, te dices que te esforzarás más, eso es lo que te ha conducido hasta aquí. Lo que deberías hacer es lo contrario: dejarlo todo por un momento y acallar los ruidos del exterior. Cerrar los ojos para ver lo que tienes en verdad ante tus ojos y, después, elegir la ruta óptima para tu progreso y el de tu equipo en función de las necesidades de la organización.
+4. Lo ideal es entrenar a las personas para que piensen como dirigentes desde el principio, cuando sus departamentos cuentan con una plantilla de un solo miembro.
+5. El simple hecho de forzar a las personas a pensar en el negocio —reflexivamente, con transparencia e interdependencia— supuso una propulsión enorme para su rendimiento.
+6. Todas las organizaciones cuentan con personas que son más expresivas a la hora de hacerse escuchar. Si no han dejado claro su punto de vista la primera vez, no se sienten incómodas repitiéndolo. Pero es posible que las que son más introvertidas sí lo hagan, y sus necesidades pueden caer en el olvido. La estructura de los OKR otorga la misma voz y el mismo peso a todos los departamentos. Nadie tiene que sufrir en silencio. Lo cierto es que no se les da opción. Tus objetivos aparecerán en pantalla como los de los demás para ser comentados y apoyados.
+7. No se trata de criticar a nadie, sino de resolver un problema. Y ¿a que no imaginas lo que sucede? Ambos líderes abogan porque Alex y yo dotemos al otro de más recursos.
+8. Resulta muy tranquilizador. Los OKR me ayudan a ser ese líder centrado y con las cosas claras. Y si la situación se descontrola, siempre puedo volver a centrarme en lo que importa.
+
+# Cultura de empresa
+
+1. Grove era ingeniero, así que equiparaba la cultura a ser eficiente, a disponer de un manual para que la toma de decisiones fuera más rápida y fiable.
+
+2. Para un rendimiento extraordinario es necesario:
+- Estructura y claridad: ¿Están claros en nuestro equipo los objetivos, las funciones y los planes de ejecución?
+- Seguridad psicológica: ¿Podemos arriesgarnos sin sentirnos inseguros ni avergonzados?
+- Sentido del trabajo: ¿Estamos trabajando en algo importante desde un punto de vista personal para cada uno de nosotros?
+- Codependencia: ¿Podemos contar unos con otros para realizar un trabajo de alta calidad cumpliendo con los plazos?
+- Impacto del trabajo: ¿Creemos que nuestro trabajo es importante?
+
+3. Un liderazgo basado en la visión vence a los mecanismos de mando y control. Cuanto más horizontal es el organigrama, más ágil es la organización. Cuando la gestión del rendimiento es una calle de dos sentidos interrelacionada, los individuos alcanzan la grandeza.

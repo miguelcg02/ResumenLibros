@@ -14,7 +14,7 @@ Desconfié de los amigos; suelen ser los primeros en traicionarlo, ya que caen f
 # Ley 3: Disimule sus intenciones
 
 ```
-Desconcierte a la gente y manténgala en la mayor ignorancia posible, sin melar nunca el propósito de sus acciones. Si no tiene la menor idea de, que es lo que usted quiere lograr les resultara imposible prepara una defensa. Condúzcalos por el camino de las falsas suposiciones, envuélvalos en una nube de humo y vera que, cuando al fin caigan en la cuenta de las verdaderas intenciones de usted, ya será tarde para ellos
+Desconcierte a la gente y manténgala en la mayor ignorancia posible, sin melar nunca el propósito de sus acciones. Si no tiene la menor idea de, que es lo que usted quiere lograr les resultara imposible prepara una defensa. Condúzcalos por el camino de las falsas suposiciones, envuélvalos en una nube de humo y vera que, cuando al fin caigan en la cuenta de las verdaderas intenciones de usted, ya será tarde para ellos.
 ```
 
 # Ley 4: Diga siempre menos de lo necesario
@@ -187,6 +187,7 @@ El mejor engaño es aquel que aparenta ofrecer opciones al otro, sus víctimas s
 ```
 Muchas veces se evita la verdad porque suele ser dura y desagradable. Nunca recurra a la verdad ni a la realidad, salvo que este dispuesto a enfrentar la ira que genera la desilusión. La vida es tan dura y problemática que aquellas personas capaces de inventar ilusiones o conjurar fantasias son como oasis en el desierto: todos van hacia ellas. Apelas a las fantasías de las masas es una fuente inmensa de poder.
 ```
+
 # Ley 33: Descubra el talón de Aquiles de los demás
 
 ```
@@ -210,6 +211,7 @@ Nunca demuestre tener prisa, ya que el que al apuro delata una falta de control 
 ```
 Al prestar atención a un problema trivial, lo convierte en real y le confiere importancia. Cuanta más atención le presente a un enemigo, más lo fortalecerá. Y, a menudo, un pequeño error se magnifica en el intento de corregirlo. A veces, lo mejor es dejar ciertas cosas por completo de lado. Si hay algo que usted desea pero no puede obtener, menosprécielo. Cuanto menos interés demuestre, mayor será el nivel de superioridad que verán los demás en usted.
 ```
+
 # Ley 37: Arme espectáculos imponentes
 
 ```
