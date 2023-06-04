@@ -87,7 +87,7 @@
 1. Desarrollo de la capacidad de tener una visión en conjunto y, al mismo tiempo de los detalles más minusculos, y sopesar cómo lo uno afecta lo otro.
 2. La genialidad suele basarse por un cumulo de detalles.
 3. Tu eres consicente de las cosas que has hecho, pero el mundo no necesita saberlo. ¡Asi que calle la jeta!
-4. Actue impulsado por el valor, no por el miendo.
+4. Actue impulsado por el valor, no por el miedo.
 5. Como lider no debes transmitir una sensación de pesimismo a la gente que te rodea. Es un desastre para la moral.
 6. La pauta que marcas cómo líder tiene un efecto enorme en las personas que te rodean.
 7. En tiempos turbulentos, se abren oportunidades.
@@ -176,7 +176,7 @@
 # Apendice de lecciones de liderazgo creativo
 
 ```
-1. Para contar grande shistorias hace falta un gran talento.
+1. Para contar grandes historias hace falta un gran talento.
 2. Ahora más que nunca: innovar o morir. No puede haber innovación si lo que te mueve es el temor a lo nuevo.
 3. Muchas veces hablo del constante afán de perfección. En la práctica esto puede significar muchas cosas y no tiene una definición. Es una mentalidad, más que una serie concreta de reglas. No significa perfeccionismo a cualquier precio. Más bien se trata de crear un entorno en las que las personas se nieguen a aceptar la mediocridad. Se trata de no creer en la tentación de que con decir "Así ya esta bien" ya es suficiente.
 4. Asume la responsabilidad cuando metas la pata. En el trabajo y en la vida, las personas que te rodean te respetarán más y confiarán más en ti si admites errores. Es imposible evitarlo; pero sí que se puede reconocer, aprender de ellos y demostrar que no pasa nada con equivocarse a veces.
